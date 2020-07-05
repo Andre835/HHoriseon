@@ -201,7 +201,7 @@ p {
 /* footer styles */
 .footer {
     display: auto;
-    padding: 30px 32px;
+    padding: 0px 32px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     width: 75%;
@@ -210,6 +210,4 @@ p {
 .footer h2 {      
     font-size: 18px;
 }
-.footer {
-    margin-left: 20px;
-}
+
